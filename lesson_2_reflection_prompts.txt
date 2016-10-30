@@ -6,6 +6,9 @@ the version control. I need for the veriosn control of the files in de directory
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+It's a process, the staging area prepares the content before add to the 
+repository, prevents the insertion of errors in the version control.
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
