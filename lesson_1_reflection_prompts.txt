@@ -1,0 +1,49 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    The command diff compares two files and shows the modifificated lines. That
+    was heplfull because I didn't need review this bug manually.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    I can review the history in the case of loses of information or if any of
+    the changes realized doesn't go well or I need replicate the code for other
+    functionalities.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Git Pros: Flexibility, I decide when create a commit.
+    Git Cons: Time to learn when to commit, for time saving
+    GD Pros: It's automatic.
+    GD Cons: Not flexible, if I don't save the file or the automatic save 
+    doesn't save the last changes, they're probably disapear.
+
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Because git is code oriented. In a code proyect, are many files involved
+    with variables, classes names or functions that have interrelationships. 
+    One change in one of them, cause change in the others.
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+    First: git log for obtain the commits IDs
+    Second: git diff for compare such IDs
+    If the color is activated, they show me in red de deletions and green, the
+    additions.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    In case of unintentional changes realized in files. The version control
+    allows the modification for multiple files in testing with the security
+    to recover (with documented commits) the previous versions.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    For try Version control and experiment with changes and modification en multiple files.
