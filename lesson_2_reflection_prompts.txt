@@ -24,6 +24,9 @@ before add to a root proyect.
 
 How do the diagrams help you visualize the branch structure?
 
+They show me in linear form, how the branches are growing up and the relation
+of the commits from each one.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
