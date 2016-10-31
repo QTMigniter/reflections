@@ -30,10 +30,13 @@ of the commits from each one.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
-The bahnch meger with the root. This contains the changes in the branch and
+The branch merge with the root. This contains the changes in the branch and
 the root, sorted by timestamp. Because the grafic representation display the 
 momment when the branch is created and show the changes in it in paralel with
 the root.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+The pros of the automatic merging it's automatic itself, the cons it's
+sometimes add code that probably derives into confusion.
