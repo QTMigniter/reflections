@@ -19,6 +19,9 @@ I commit it.
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+For the test of new features. The posibility of makes changes and testing those
+before add to a root proyect. 
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
