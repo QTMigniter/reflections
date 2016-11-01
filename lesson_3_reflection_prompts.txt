@@ -34,4 +34,5 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Experimental aproach. Make changes that doesn't involve the root. Test new
+    codes in parallel to the working code
